@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/pi/Desktop/vision_KF/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -I/home/pi/Desktop/vision_KF/include -isystem /usr/local/include/opencv4  -g   -lwiringPi -o CMakeFiles/vision_KF.dir/src/main.cpp.o -c /home/pi/Desktop/vision_KF/src/main.cpp",
+  "file": "/home/pi/Desktop/vision_KF/src/main.cpp"
+},
+{
+  "directory": "/home/pi/Desktop/vision_KF/build",
+  "command": "/usr/bin/arm-linux-gnueabihf-g++   -I/home/pi/Desktop/vision_KF/include -isystem /usr/local/include/opencv4  -g   -lwiringPi -o CMakeFiles/vision_KF.dir/src/Kalman.cpp.o -c /home/pi/Desktop/vision_KF/src/Kalman.cpp",
+  "file": "/home/pi/Desktop/vision_KF/src/Kalman.cpp"
+}
+]
